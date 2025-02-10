@@ -1,0 +1,1201 @@
+{
+  "results": {
+    "tool": {
+      "name": "playwright"
+    },
+    "summary": {
+      "tests": 235,
+      "passed": 234,
+      "failed": 1,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1738921534412,
+      "stop": 1738921841159,
+      "suites": 0
+    },
+    "tests": [
+      {
+        "name": "Authenticate as admin via API",
+        "status": "passed",
+        "duration": 32
+      },
+      {
+        "name": "Authenticate as app user via API",
+        "status": "passed",
+        "duration": 14
+      },
+      {
+        "name": "Authenticate as discount user via API",
+        "status": "passed",
+        "duration": 13
+      },
+      {
+        "name": "Authenticate as order user via API",
+        "status": "passed",
+        "duration": 9
+      },
+      {
+        "name": "Authenticate as channel user via API",
+        "status": "passed",
+        "duration": 12
+      },
+      {
+        "name": "Authenticate as customer user via API",
+        "status": "passed",
+        "duration": 13
+      },
+      {
+        "name": "Authenticate as giftCard user via API",
+        "status": "passed",
+        "duration": 17
+      },
+      {
+        "name": "Authenticate as page user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as plugin user via API",
+        "status": "passed",
+        "duration": 10
+      },
+      {
+        "name": "Authenticate as productTypeAndAttribute user via API",
+        "status": "passed",
+        "duration": 12
+      },
+      {
+        "name": "Authenticate as product user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as settings user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as staff user via API",
+        "status": "passed",
+        "duration": 10
+      },
+      {
+        "name": "Authenticate as shipping user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as translations user via API",
+        "status": "passed",
+        "duration": 14
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PRODUCT_TYPE Dropdown attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 13386
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PRODUCT_TYPE Multiple Select attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 14445
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PRODUCT_TYPE Swatch attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 13387
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PAGE_TYPE Dropdown attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 13336
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PAGE_TYPE Multiple Select attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 12946
+      },
+      {
+        "name": "TC: SALEOR_124 User should be able to create PAGE_TYPE Swatch attribute with ability to add values, required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 12130
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE File attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 10979
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Numeric attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11457
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Rich Text attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 10701
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Plain Text attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11253
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Boolean attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11998
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Date attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 12260
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PRODUCT_TYPE Date Time attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11470
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE File attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11650
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Numeric attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 12413
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Rich Text attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 12685
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Plain Text attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 10476
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Boolean attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11438
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Date attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11402
+      },
+      {
+        "name": "TC: SALEOR_125 User should be able to create PAGE_TYPE Date Time attribute without ability to add values, NOT required, private #e2e #attributes",
+        "status": "passed",
+        "duration": 11250
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PRODUCT_TYPE References attribute for Page, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 11124
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PRODUCT_TYPE References attribute for Product, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 11087
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PRODUCT_TYPE References attribute for Product Variant, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 11919
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PAGE_TYPE References attribute for Page, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 11619
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PAGE_TYPE References attribute for Product, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 9756
+      },
+      {
+        "name": "TC: SALEOR_126 User should be able to create PAGE_TYPE References attribute for Product Variant, NOT required, public #e2e #attributes",
+        "status": "passed",
+        "duration": 12070
+      },
+      {
+        "name": "TC: SALEOR_127 User should be able to update attribute values in existing e2e product attribute to be updated attribute #e2e #attributes",
+        "status": "passed",
+        "duration": 11660
+      },
+      {
+        "name": "TC: SALEOR_127 User should be able to update attribute values in existing e2e content attribute to be updated attribute #e2e #attributes",
+        "status": "passed",
+        "duration": 12868
+      },
+      {
+        "name": "TC: SALEOR_128 User should be able to edit existing e2e product attribute to be updated 1 attribute #e2e #attributes",
+        "status": "passed",
+        "duration": 12254
+      },
+      {
+        "name": "TC: SALEOR_128 User should be able to edit existing e2e content attribute to be updated 2 attribute #e2e #attributes",
+        "status": "passed",
+        "duration": 11618
+      },
+      {
+        "name": "TC: SALEOR_129 Delete a single e2e product attribute to be deleted #e2e #attributes",
+        "status": "passed",
+        "duration": 7702
+      },
+      {
+        "name": "TC: SALEOR_129 Delete a single e2e content attribute to be deleted #e2e #attributes",
+        "status": "passed",
+        "duration": 7509
+      },
+      {
+        "name": "TC: SALEOR_130 Bulk delete attributes #e2e #attributes",
+        "status": "passed",
+        "duration": 9609
+      },
+      {
+        "name": "TC: SALEOR_102 Create basic category #e2e #category",
+        "status": "passed",
+        "duration": 11547
+      },
+      {
+        "name": "TC: SALEOR_103 Edit category #e2e #category",
+        "status": "passed",
+        "duration": 8694
+      },
+      {
+        "name": "TC: SALEOR_104 Bulk delete categories #e2e #category",
+        "status": "passed",
+        "duration": 14069
+      },
+      {
+        "name": "TC: SALEOR_97 Create basic channel #e2e #channels",
+        "status": "passed",
+        "duration": 11484
+      },
+      {
+        "name": "TC: SALEOR_208 Create channel with all settings #e2e #channels",
+        "status": "passed",
+        "duration": 14841
+      },
+      {
+        "name": "TC: SALEOR_98 Edit channel - transaction flow, allow unpaid, authorize, prio high stock #e2e #channels",
+        "status": "passed",
+        "duration": 7141
+      },
+      {
+        "name": "TC: SALEOR_99 Delete channel #e2e #channels",
+        "status": "passed",
+        "duration": 7512
+      },
+      {
+        "name": "TC: SALEOR_112 Create collection #collections  #e2e",
+        "status": "passed",
+        "duration": 14205
+      },
+      {
+        "name": "TC: SALEOR_113 Edit collection: assign product #collections  #e2e",
+        "status": "passed",
+        "duration": 8201
+      },
+      {
+        "name": "TC: SALEOR_114 Bulk delete collections #collections  #e2e",
+        "status": "passed",
+        "duration": 13730
+      },
+      {
+        "name": "TC: SALEOR_199 Create customer #e2e #customer",
+        "status": "passed",
+        "duration": 14233
+      },
+      {
+        "name": "TC: SALEOR_200 As an admin I should not be able to create customer with duplicated email #e2e #customer",
+        "status": "passed",
+        "duration": 12073
+      },
+      {
+        "name": "TC: SALEOR_201 Update customer account info #e2e #customer",
+        "status": "passed",
+        "duration": 7585
+      },
+      {
+        "name": "TC: SALEOR_202 Deactivate a customer #e2e #customer",
+        "status": "passed",
+        "duration": 7956
+      },
+      {
+        "name": "TC: SALEOR_203 Activate a customer #e2e #customer",
+        "status": "passed",
+        "duration": 7796
+      },
+      {
+        "name": "TC: SALEOR_204 Delete customer from the details page #e2e #customer",
+        "status": "passed",
+        "duration": 12159
+      },
+      {
+        "name": "TC: SALEOR_205 Bulk delete customers #e2e #customer",
+        "status": "passed",
+        "duration": 10530
+      },
+      {
+        "name": "TC: SALEOR_206 As an admin I want to add address to the customer and set it as default shipping #e2e #customer",
+        "status": "passed",
+        "duration": 13418
+      },
+      {
+        "name": "TC: SALEOR_209 As an admin I want to update customer's address and set it as default billing #e2e #customer",
+        "status": "passed",
+        "duration": 14866
+      },
+      {
+        "name": "TC: SALEOR_210 Delete customer's address #e2e #customer",
+        "status": "passed",
+        "duration": 10027
+      },
+      {
+        "name": "TC: SALEOR_207 Issue a new gift card for the customer #e2e #customer",
+        "status": "passed",
+        "duration": 12481
+      },
+      {
+        "name": "TC: SALEOR_149 Create promotion with Order predicate #discounts #e2e",
+        "status": "passed",
+        "duration": 11215
+      },
+      {
+        "name": "TC: SALEOR_149 Create promotion with Catalog predicate #discounts #e2e",
+        "status": "passed",
+        "duration": 10449
+      },
+      {
+        "name": "TC: SALEOR_151 Update existing promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7029
+      },
+      {
+        "name": "TC: SALEOR_153 Delete existing e2e Order predicate promotion without rules #discounts #e2e",
+        "status": "passed",
+        "duration": 6274
+      },
+      {
+        "name": "TC: SALEOR_153 Delete existing e2e Catalog predicate promotion with rules #discounts #e2e",
+        "status": "passed",
+        "duration": 7542
+      },
+      {
+        "name": "TC: SALEOR_155 Create Categories rule for e2e category in a catalogue promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10212
+      },
+      {
+        "name": "TC: SALEOR_155 Create Collections rule for e2e collection in a catalogue promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10342
+      },
+      {
+        "name": "TC: SALEOR_155 Create Products rule for Colored Parrot Cushion in a catalogue promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10406
+      },
+      {
+        "name": "TC: SALEOR_155 Create Variants rule for Colored Parrot Cushion - 70 / 70 in a catalogue promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10962
+      },
+      {
+        "name": "TC: SALEOR_157 Create subtotal type rule with multiple conditions with lower than in order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 11107
+      },
+      {
+        "name": "TC: SALEOR_157 Create subtotal type rule with multiple conditions with greater than in order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 11031
+      },
+      {
+        "name": "TC: SALEOR_160 Create gift reward rule with Subtotal between 150.00 and 170.00 in order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10667
+      },
+      {
+        "name": "TC: SALEOR_160 Create gift reward rule with Total between 20.00 and 50.00 in order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 11524
+      },
+      {
+        "name": "TC: SALEOR_163 Update promotion rule 1 from Order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 8987
+      },
+      {
+        "name": "TC: SALEOR_163 Update promotion rule 2 from Order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 9298
+      },
+      {
+        "name": "TC: SALEOR_166 Update promotion rule #1 from Catalog promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 9957
+      },
+      {
+        "name": "TC: SALEOR_166 Update promotion rule 2 from Catalog promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 10091
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule #1 from Order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7111
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule #2 from Order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7472
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule #3 from Order promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7112
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule 1 from Catalog promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7976
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule 2 from Catalog promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7710
+      },
+      {
+        "name": "TC: SALEOR_167 Delete promotion rule 3 from Catalog promotion #discounts #e2e",
+        "status": "passed",
+        "duration": 7379
+      },
+      {
+        "name": "TC: SALEOR_105 Issue gift card #e2e #gift",
+        "status": "passed",
+        "duration": 14744
+      },
+      {
+        "name": "TC: SALEOR_106 Issue gift card with specific customer and expiry date #e2e #gift",
+        "status": "passed",
+        "duration": 17644
+      },
+      {
+        "name": "TC: SALEOR_107 Resend code #e2e #gift",
+        "status": "passed",
+        "duration": 9454
+      },
+      {
+        "name": "TC: SALEOR_108 Deactivate gift card #e2e #gift",
+        "status": "passed",
+        "duration": 9878
+      },
+      {
+        "name": "TC: SALEOR_109 Activate gift card #e2e #gift",
+        "status": "passed",
+        "duration": 10911
+      },
+      {
+        "name": "TC: SALEOR_110 Edit gift card #e2e #gift",
+        "status": "passed",
+        "duration": 13212
+      },
+      {
+        "name": "TC: SALEOR_111 Bulk delete gift cards #e2e #gift",
+        "status": "passed",
+        "duration": 10846
+      },
+      {
+        "name": "TC: SALEOR_181 Set gift card balance #e2e #gift",
+        "status": "passed",
+        "duration": 10763
+      },
+      {
+        "name": "TC: SALEOR_182 Export gift card codes in XLSX file #e2e #gift",
+        "status": "passed",
+        "duration": 12728
+      },
+      {
+        "name": "TC: SALEOR_183 Export gift card codes in CSV file #e2e #gift",
+        "status": "passed",
+        "duration": 12967
+      },
+      {
+        "name": "TC: SALEOR_29 Correct information on dashboard home page #e2e",
+        "status": "passed",
+        "duration": 5322
+      },
+      {
+        "name": "TC: SALEOR_193 Should go to Navigation page #navigation #e2e",
+        "status": "passed",
+        "duration": 3824
+      },
+      {
+        "name": "TC: SALEOR_194 Should create a new menu navigation with menu item #navigation #e2e",
+        "status": "passed",
+        "duration": 11217
+      },
+      {
+        "name": "TC: SALEOR_198 Should update existing menu #navigation #e2e",
+        "status": "failed",
+        "duration": 8208
+      },
+      {
+        "name": "TC: SALEOR_197 Should remove existing menu from it's details page #navigation #e2e",
+        "status": "passed",
+        "duration": 6439
+      },
+      {
+        "name": "TC: SALEOR_195 Should remove a single menu from the list #navigation #e2e",
+        "status": "passed",
+        "duration": 7286
+      },
+      {
+        "name": "TC: SALEOR_196 Should bulk delete menus from the list #navigation #e2e",
+        "status": "passed",
+        "duration": 10177
+      },
+      {
+        "name": "TC: SALEOR_28 Create basic order #e2e #order",
+        "status": "passed",
+        "duration": 23387
+      },
+      {
+        "name": "TC: SALEOR_76 Create order with transaction flow activated #e2e #order",
+        "status": "passed",
+        "duration": 22952
+      },
+      {
+        "name": "TC: SALEOR_77 Mark order as paid and fulfill it with transaction flow activated #e2e #order",
+        "status": "passed",
+        "duration": 12055
+      },
+      {
+        "name": "TC: SALEOR_78 Capture partial amounts by manual transactions and fulfill order with transaction flow activated #e2e #order",
+        "status": "passed",
+        "duration": 15571
+      },
+      {
+        "name": "TC: SALEOR_79 Mark order as paid and fulfill it with regular flow #e2e #order",
+        "status": "passed",
+        "duration": 12681
+      },
+      {
+        "name": "TC: SALEOR_80 Add tracking to order #e2e #order",
+        "status": "passed",
+        "duration": 9962
+      },
+      {
+        "name": "TC: SALEOR_81 Change billing address in fulfilled order #e2e #order",
+        "status": "passed",
+        "duration": 12033
+      },
+      {
+        "name": "TC: SALEOR_82 Change shipping address in not fulfilled order #e2e #order",
+        "status": "passed",
+        "duration": 11124
+      },
+      {
+        "name": "TC: SALEOR_83 Draft orders bulk delete #e2e #draft",
+        "status": "passed",
+        "duration": 9924
+      },
+      {
+        "name": "Authenticate as admin via API",
+        "status": "passed",
+        "duration": 31
+      },
+      {
+        "name": "Authenticate as app user via API",
+        "status": "passed",
+        "duration": 14
+      },
+      {
+        "name": "Authenticate as discount user via API",
+        "status": "passed",
+        "duration": 13
+      },
+      {
+        "name": "Authenticate as order user via API",
+        "status": "passed",
+        "duration": 11
+      },
+      {
+        "name": "Authenticate as channel user via API",
+        "status": "passed",
+        "duration": 10
+      },
+      {
+        "name": "Authenticate as customer user via API",
+        "status": "passed",
+        "duration": 12
+      },
+      {
+        "name": "Authenticate as giftCard user via API",
+        "status": "passed",
+        "duration": 13
+      },
+      {
+        "name": "Authenticate as page user via API",
+        "status": "passed",
+        "duration": 11
+      },
+      {
+        "name": "Authenticate as plugin user via API",
+        "status": "passed",
+        "duration": 10
+      },
+      {
+        "name": "Authenticate as productTypeAndAttribute user via API",
+        "status": "passed",
+        "duration": 17
+      },
+      {
+        "name": "Authenticate as product user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as settings user via API",
+        "status": "passed",
+        "duration": 8
+      },
+      {
+        "name": "Authenticate as staff user via API",
+        "status": "passed",
+        "duration": 12
+      },
+      {
+        "name": "Authenticate as shipping user via API",
+        "status": "passed",
+        "duration": 7
+      },
+      {
+        "name": "Authenticate as translations user via API",
+        "status": "passed",
+        "duration": 7
+      },
+      {
+        "name": "TC: SALEOR_84 Create draft order #e2e #draft",
+        "status": "passed",
+        "duration": 25680
+      },
+      {
+        "name": "TC: SALEOR_191 Refund products from the fully paid order #e2e @refunds",
+        "status": "passed",
+        "duration": 18303
+      },
+      {
+        "name": "TC: SALEOR_192 Should create a manual refund with a custom amount #e2e @refunds",
+        "status": "passed",
+        "duration": 17005
+      },
+      {
+        "name": "TC: SALEOR_193 Update order with non-manual refund in FAILURE status #e2e @refunds",
+        "status": "passed",
+        "duration": 11474
+      },
+      {
+        "name": "TC: SALEOR_193 Update order with non-manual refund in DRAFT status #e2e @refunds",
+        "status": "passed",
+        "duration": 11268
+      },
+      {
+        "name": "TC: SALEOR_215 Inline discount is applied in a draft order #draft #discounts #e2e",
+        "status": "passed",
+        "duration": 16011
+      },
+      {
+        "name": "TC: SALEOR_216 Order type discount is applied to a draft order #draft #discounts #e2e",
+        "status": "passed",
+        "duration": 24500
+      },
+      {
+        "name": "TC: SALEOR_217 Complete basic order for non existing customer #e2e #order",
+        "status": "passed",
+        "duration": 18114
+      },
+      {
+        "name": "TC: SALEOR_187 As an admin user I can create page type #e2e #page-type",
+        "status": "passed",
+        "duration": 13231
+      },
+      {
+        "name": "TC: SALEOR_188 As an admin user I can update page type#e2e #page-type",
+        "status": "passed",
+        "duration": 7166
+      },
+      {
+        "name": "TC: SALEOR_189 As an admin user I can delete page type with assigned content#e2e #page-type",
+        "status": "passed",
+        "duration": 8723
+      },
+      {
+        "name": "TC: SALEOR_190 As an admin user I can delete several page types#e2e #page-type",
+        "status": "passed",
+        "duration": 7369
+      },
+      {
+        "name": "TC: SALEOR_139 Should be able to navigate to permission groups page #permissions #e2e",
+        "status": "passed",
+        "duration": 5904
+      },
+      {
+        "name": "TC: SALEOR_133 Should be able to create new permission group #permissions #e2e",
+        "status": "passed",
+        "duration": 15456
+      },
+      {
+        "name": "TC: SALEOR_134 Should be able to edit existing permission group #permissions #e2e",
+        "status": "passed",
+        "duration": 11163
+      },
+      {
+        "name": "TC: SALEOR_135 Should be able to delete single permission group #permissions #e2e",
+        "status": "passed",
+        "duration": 11191
+      },
+      {
+        "name": "TC: SALEOR_3 Create basic product with variants #e2e #product",
+        "status": "passed",
+        "duration": 16128
+      },
+      {
+        "name": "TC: SALEOR_5 Create basic - single product type - product without variants #e2e #product",
+        "status": "passed",
+        "duration": 15260
+      },
+      {
+        "name": "TC: SALEOR_26 Create basic info variant - via edit variant page #e2e #product",
+        "status": "passed",
+        "duration": 10186
+      },
+      {
+        "name": "TC: SALEOR_27 Create full info variant - via edit variant page #e2e #product",
+        "status": "passed",
+        "duration": 16142
+      },
+      {
+        "name": "TC: SALEOR_44 As an admin I should be able to delete a several products @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 17216
+      },
+      {
+        "name": "TC: SALEOR_45 As an admin I should be able to delete a single products @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 11648
+      },
+      {
+        "name": "TC: SALEOR_46 As an admin, I should be able to update a product by uploading media, assigning channels, assigning tax, and adding a new variant   @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 13388
+      },
+      {
+        "name": "TC: SALEOR_56 As an admin, I should be able to export products from single channel as CSV file @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 12075
+      },
+      {
+        "name": "TC: SALEOR_57 As an admin, I should be able to search products on list view @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 9365
+      },
+      {
+        "name": "TC: SALEOR_58 As an admin I should be able use pagination on product list view @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 9032
+      },
+      {
+        "name": "TC: SALEOR_59 As an admin I should be able to filter products by channel on product list view @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 13434
+      },
+      {
+        "name": "TC: SALEOR_60 As an admin I should be able update existing variant @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 10951
+      },
+      {
+        "name": "TC: SALEOR_61 As an admin I should be able to delete existing variant @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 8050
+      },
+      {
+        "name": "TC: SALEOR_62 As an admin I should be able to bulk delete existing variants @basic-regression #product #e2e",
+        "status": "passed",
+        "duration": 9514
+      },
+      {
+        "name": "TC: SALEOR_1 Create basic product type #e2e #product-type",
+        "status": "passed",
+        "duration": 10247
+      },
+      {
+        "name": "TC: SALEOR_2 Create gift card product type #e2e #product-type",
+        "status": "passed",
+        "duration": 6516
+      },
+      {
+        "name": "TC: SALEOR_184 As a admin I can edit product type #e2e #product-type",
+        "status": "passed",
+        "duration": 9922
+      },
+      {
+        "name": "TC: SALEOR_185 As a admin user I can delete product type with assigned products #e2e #product-type",
+        "status": "passed",
+        "duration": 7550
+      },
+      {
+        "name": "TC: SALEOR_186 As a admin user I can delete several product types #e2e #product-type",
+        "status": "passed",
+        "duration": 6592
+      },
+      {
+        "name": "TC: SALEOR_31 Create basic shipping method #shipping-method #e2e",
+        "status": "passed",
+        "duration": 12519
+      },
+      {
+        "name": "TC: SALEOR_32 Add price rate to shipping method - with excluded zip codes and excluded product #shipping-method #e2e",
+        "status": "passed",
+        "duration": 12905
+      },
+      {
+        "name": "TC: SALEOR_33 Add weight rate to shipping method - with included zip codes and excluded product #shipping-method #e2e",
+        "status": "passed",
+        "duration": 13391
+      },
+      {
+        "name": "TC: SALEOR_34 Delete a single shipping rate from the shipping zone details page #shipping-method #e2e",
+        "status": "passed",
+        "duration": 8033
+      },
+      {
+        "name": "TC: SALEOR_35 Delete a single shipping rate from its details page #shipping-method #e2e",
+        "status": "passed",
+        "duration": 7659
+      },
+      {
+        "name": "TC: SALEOR_36 Delete shipping zones in bulk #shipping-method #e2e",
+        "status": "passed",
+        "duration": 9587
+      },
+      {
+        "name": "TC: SALEOR_37 Update a shipping method #shipping-method #e2e",
+        "status": "passed",
+        "duration": 8177
+      },
+      {
+        "name": "TC: SALEOR_10 User should be able to navigate to apps list as a staff member using APP permission #e2e",
+        "status": "passed",
+        "duration": 5953
+      },
+      {
+        "name": "TC: SALEOR_11 User should be able to navigate to channel list as a staff member using CHANNEL permission #e2e",
+        "status": "passed",
+        "duration": 5943
+      },
+      {
+        "name": "TC: SALEOR_12 User should be able to navigate to webhooks and events as a staff member using CHANNEL permission #e2e",
+        "status": "passed",
+        "duration": 7719
+      },
+      {
+        "name": "TC: SALEOR_14 User should be able to navigate to content list as a staff member using CONTENT aka PAGE permission #e2e",
+        "status": "passed",
+        "duration": 5680
+      },
+      {
+        "name": "TC: SALEOR_15 User should be able to navigate to page types list as a staff member using CONTENT aka PAGE permission #e2e",
+        "status": "passed",
+        "duration": 8107
+      },
+      {
+        "name": "TC: SALEOR_13 User should be able to navigate to customer list as a staff member using CUSTOMER permission #e2e",
+        "status": "passed",
+        "duration": 5874
+      },
+      {
+        "name": "TC: SALEOR_6 User should be able to navigate to discount list as a staff member using DISCOUNTS permission #e2e",
+        "status": "passed",
+        "duration": 6337
+      },
+      {
+        "name": "TC: SALEOR_7 User should be able to navigate to voucher list as a staff member using DISCOUNTS permission #e2e",
+        "status": "passed",
+        "duration": 6687
+      },
+      {
+        "name": "TC: SALEOR_8 User should be able to navigate to order list as a staff member using ORDER permission #e2e",
+        "status": "passed",
+        "duration": 5741
+      },
+      {
+        "name": "TC: SALEOR_9 User should be able to navigate to draft list as a staff member using ORDER permission #e2e",
+        "status": "passed",
+        "duration": 6147
+      },
+      {
+        "name": "TC: SALEOR_16 User should be able to navigate to plugin list as a staff member using PLUGINS permission #e2e",
+        "status": "passed",
+        "duration": 5969
+      },
+      {
+        "name": "TC: SALEOR_23 User should be able to navigate to product list as a staff member using PRODUCT permission #e2e",
+        "status": "passed",
+        "duration": 7016
+      },
+      {
+        "name": "TC: SALEOR_24 User should be able to navigate to collections list as a staff member using PRODUCT permission #e2e",
+        "status": "passed",
+        "duration": 6358
+      },
+      {
+        "name": "TC: SALEOR_25 User should be able to navigate to categories list as a staff member using PRODUCT permission #e2e",
+        "status": "passed",
+        "duration": 6353
+      },
+      {
+        "name": "TC: SALEOR_17 User should be able to navigate to product type list as a staff member using PRODUCT TYPE permission #e2e",
+        "status": "passed",
+        "duration": 5057
+      },
+      {
+        "name": "TC: SALEOR_131 User with discount permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8669
+      },
+      {
+        "name": "TC: SALEOR_131 User with order permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8876
+      },
+      {
+        "name": "TC: SALEOR_131 User with channel permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8722
+      },
+      {
+        "name": "TC: SALEOR_131 User with customer permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 9141
+      },
+      {
+        "name": "TC: SALEOR_131 User with giftCard permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8326
+      },
+      {
+        "name": "TC: SALEOR_131 User with page permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8481
+      },
+      {
+        "name": "TC: SALEOR_131 User with plugin permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 7654
+      },
+      {
+        "name": "TC: SALEOR_131 User with productTypeAndAttribute permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8998
+      },
+      {
+        "name": "TC: SALEOR_131 User with product permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 7427
+      },
+      {
+        "name": "TC: SALEOR_131 User with settings permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8213
+      },
+      {
+        "name": "TC: SALEOR_131 User with staff permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 8182
+      },
+      {
+        "name": "TC: SALEOR_131 User with shipping permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 9022
+      },
+      {
+        "name": "TC: SALEOR_131 User with translations permissions should have readonly access to Apps #e2e #apps",
+        "status": "passed",
+        "duration": 7549
+      },
+      {
+        "name": "TC: SALEOR_18 User should be able to navigate to configuration as a staff member using SETTINGS permission #e2e",
+        "status": "passed",
+        "duration": 4731
+      },
+      {
+        "name": "TC: SALEOR_21 User should be able to navigate to shipping zones page as a staff member using SHIPPING permission #e2e",
+        "status": "passed",
+        "duration": 11703
+      },
+      {
+        "name": "TC: SALEOR_19 User should be able to navigate to staff members list page as a staff member using STAFF permission #e2e",
+        "status": "passed",
+        "duration": 4538
+      },
+      {
+        "name": "TC: SALEOR_20 User should be able to navigate to permission group list page as a staff member using STAFF permission #e2e",
+        "status": "passed",
+        "duration": 4377
+      },
+      {
+        "name": "TC: SALEOR_22 User should be able to navigate to translations page as a staff member using TRANSLATION permission #e2e",
+        "status": "passed",
+        "duration": 4560
+      },
+      {
+        "name": "TC: SALEOR_132 Should be able to update site settings #e2e",
+        "status": "passed",
+        "duration": 7288
+      },
+      {
+        "name": "TC: SALEOR_137 Admin User should be able to deactivate other user #e2e #staff-members",
+        "status": "passed",
+        "duration": 7158
+      },
+      {
+        "name": "TC: SALEOR_38 Admin User should be able to activate other user #e2e #staff-members",
+        "status": "passed",
+        "duration": 6930
+      },
+      {
+        "name": "TC: SALEOR_211 Create a staff member #e2e #staff-members",
+        "status": "passed",
+        "duration": 11934
+      },
+      {
+        "name": "TC: SALEOR_212 Edit a staff member #e2e #staff-members",
+        "status": "passed",
+        "duration": 10901
+      },
+      {
+        "name": "TC: SALEOR_213 Delete a single staff member #e2e #staff-members",
+        "status": "passed",
+        "duration": 10307
+      },
+      {
+        "name": "TC: SALEOR_115 Change taxes in channel to use tax app  #taxes #e2e",
+        "status": "passed",
+        "duration": 7141
+      },
+      {
+        "name": "TC: SALEOR_116 Change taxes in channel: enter prices without tax, do not show gross price, add country exception #taxes #e2e",
+        "status": "passed",
+        "duration": 8390
+      },
+      {
+        "name": "TC: SALEOR_117 Add new country and tax rates to it #taxes #e2e",
+        "status": "passed",
+        "duration": 11510
+      },
+      {
+        "name": "TC: SALEOR_118 Add new class with metadata and set tax rate for single country #taxes #e2e",
+        "status": "passed",
+        "duration": 9717
+      },
+      {
+        "name": "TC: SALEOR_121 Should be able to add translation  #e2e #translations",
+        "status": "passed",
+        "duration": 9165
+      },
+      {
+        "name": "TC: SALEOR_122 Should be able to edit translation  #e2e #translations",
+        "status": "passed",
+        "duration": 9605
+      },
+      {
+        "name": "TC: SALEOR_123 Should be able to clear translation  #e2e #translations",
+        "status": "passed",
+        "duration": 6756
+      },
+      {
+        "name": "TC: SALEOR_40 Create voucher with auto-generated codes and fixed amount discount #vouchers #e2e",
+        "status": "passed",
+        "duration": 12645
+      },
+      {
+        "name": "TC: SALEOR_85 Create voucher with manual code and percentage discount #vouchers #e2e",
+        "status": "passed",
+        "duration": 11889
+      },
+      {
+        "name": "TC: SALEOR_86 Edit voucher to have free shipping discount #vouchers #e2e",
+        "status": "passed",
+        "duration": 8110
+      },
+      {
+        "name": "TC: SALEOR_87 Edit voucher Usage Limits: used in total, per customer, staff only, code used once #vouchers #e2e",
+        "status": "passed",
+        "duration": 8323
+      },
+      {
+        "name": "TC: SALEOR_89 Create voucher with minimum value of order #vouchers #e2e",
+        "status": "passed",
+        "duration": 9316
+      },
+      {
+        "name": "TC: SALEOR_90 Edit voucher minimum quantity of items #vouchers #e2e",
+        "status": "passed",
+        "duration": 7906
+      },
+      {
+        "name": "TC: SALEOR_92 Delete voucher #vouchers #e2e",
+        "status": "passed",
+        "duration": 8208
+      },
+      {
+        "name": "TC: SALEOR_93 Bulk delete voucher #vouchers #e2e",
+        "status": "passed",
+        "duration": 13551
+      },
+      {
+        "name": "TC: SALEOR_94 Edit voucher - assign voucher to specific category #vouchers #e2e",
+        "status": "passed",
+        "duration": 8364
+      },
+      {
+        "name": "TC:SALEOR_95  Edit voucher - assign voucher to specific collection #vouchers #e2e",
+        "status": "passed",
+        "duration": 8627
+      },
+      {
+        "name": "TC: SALEOR_96 Edit voucher - assign voucher to specific product #vouchers #e2e",
+        "status": "passed",
+        "duration": 9148
+      },
+      {
+        "name": "TC: SALEOR_30 Create basic warehouse #e2e #warehouse",
+        "status": "passed",
+        "duration": 9236
+      },
+      {
+        "name": "TC: SALEOR_100 Edit warehouse #e2e #warehouse",
+        "status": "passed",
+        "duration": 6365
+      },
+      {
+        "name": "TC: SALEOR_101 Delete warehouse #e2e #warehouse",
+        "status": "passed",
+        "duration": 5852
+      }
+    ],
+    "environment": {
+      "appName": "Saleor Dashboard",
+      "appVersion": "3.21.0-dev",
+      "branchName": "refs/pull/5398/merge",
+      "testEnvironment": "saleor-master-staging"
+    }
+  }
+}
